@@ -10,7 +10,7 @@
     "nodemon": "^1.18.6",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1",
+    "react-scripts": "5.0.1",
     "react-strap": "0.0.1",
     "react-toastify": "^4.4.2",
     "reactstrap": "^6.5.0"
